@@ -1,0 +1,7 @@
+# Windows
+Thumbs.db
+*.log
+
+# Temp
+*~
+.DS_Store
